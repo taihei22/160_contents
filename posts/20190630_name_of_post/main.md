@@ -8,4 +8,4 @@ Copyright: (C) 2019 taihei
 Write contents below.
 
 ## 0702
-すこし表示を変える
+またまたすこし表示を変える
